@@ -1,0 +1,10 @@
+@font-face {
+    font-family: ubuntu;
+    src: url(../fonts/ubuntu.ttf);
+}
+
+.all {
+    font-family: ubuntu;
+    width:1000px;
+    margin:0 auto;
+}
