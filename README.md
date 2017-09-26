@@ -1,10 +1,10 @@
 # Slate Projects Website
 
-## What is it?
+## What's this?
 
-**Before you know what this is, you must know what Slate was.** Slate was a [VCS (version control system)](https://en.wikipedia.org/wiki/Version_control "VCS (version control system)") I created to organize my projects. It wasn't good. One folder kept the source code, one kept any templates I used, and the last one kept things I made public. I eventually learned Git because a lot of people use it. I don't regret learning Git.
+**Before you know what this is, you must know what Slate was.** Slate was a [VCS (version control system)](https://en.wikipedia.org/wiki/Version_control "VCS (version control system)") It was created to organize my projects. One folder kept the source code, one kept any templates I used, and the last one kept things I made public. I eventually learned Git because a lot of people use it. I don't regret learning Git.
 
-Okay, so we got that out of the way. So what is this? This website contains all of my projects I created in Slate. I eventually converted the last source code updates for them to Git, threw what was left in 7z files, made a website so people could easily access them, and uploaded it.
+This website contains all of my projects I created in Slate. I eventually converted the last source code updates for them to Git, threw what was left in 7z files, made a website so people could easily access them, and uploaded it.
 
 ## How do I put this on the Internet?
 
@@ -17,3 +17,5 @@ Okay, so we got that out of the way. So what is this? This website contains all 
 4. Drag the files into the correct location on the server. Your hosting service should explain where to upload them.
 
 5. Now go to your website link and it should work!
+
+Also, [I hosted it myself.](http://oldslateprojects.ml "I hosted it myself.")
